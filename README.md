@@ -6,4 +6,4 @@ COVID-19, an infectious disease caused by the SARS-CoV-2 virus, was declared a p
 
 **2. [Kaggle Competitions Datasets](https://github.com/siddiquelatif/Leveraging-Data-Science-To-Combat-COVID-19-A-Comprehensive-Review/blob/master/competitions.md)**
 
-**3. [Prominent COVID-19 Community Resources](https://github.com/siddiquelatif/Leveraging-Data-Science-To-Combat-COVID-19-A-Comprehensive-Review/blob/master/resources.md)
+**3. [Prominent COVID-19 Community Resources](https://github.com/siddiquelatif/Leveraging-Data-Science-To-Combat-COVID-19-A-Comprehensive-Review/blob/master/resources.md)**
