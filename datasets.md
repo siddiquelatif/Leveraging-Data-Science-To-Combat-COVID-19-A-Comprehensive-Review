@@ -8,7 +8,7 @@
 [Coronavirus Source Data](https://ourworldindata.org/coronavirus-source-data)|All Countries|Case statistics|	Time series of confirmed daily COVID-19 cases for countries around the world|
 [CHIME](https://github.com/CodeForPhilly/chime)|All Countries|Case statistics|	Daily number of susceptible, infected and recovered patient|
 [COVID-19 Korea Dataset](https://github.com/ThisIsIsaac/Data-Science-for-COVID-19)|	Korea|	Case statistics	Patient routes, age, gender, diagnosed date|
-[hCOV-19]|(https://www.gisaid.org/epiflu-applications/next-hcov-19-app/)|All Countries|Genomic epidemiology|	Genetic sequence and metadata|
+[hCOV-19](https://www.gisaid.org/epiflu-applications/next-hcov-19-app/)|All Countries|Genomic epidemiology|	Genetic sequence and metadata|
 [New York Times dataset](https://github.com/nytimes/covid-19-data)|USA|	State-wise cumulative cases|	Date, state name, number of cases, death count|
 [Public Corona-virus Twitter Dataset](https://arxiv.org/abs/2003.07372)|All Countries|Tweet data|	Twitter ID with location|
 [Coronavirus COVID19 Tweets](https://www.kaggle.com/smid80/coronavirus-COVID19-tweets)|All Countries|	Public Tweets on COVID-19|	UserID, location, hashtags, tweet text|
