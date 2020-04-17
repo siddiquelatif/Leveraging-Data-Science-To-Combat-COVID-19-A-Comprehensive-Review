@@ -1,4 +1,4 @@
-**A List of Prominent COVID-19 Datasets**
+**Table 1: A List of Prominent COVID-19 Datasets**
 
 
 | Dataset Name | Country/Region | Modality | Attributes|
