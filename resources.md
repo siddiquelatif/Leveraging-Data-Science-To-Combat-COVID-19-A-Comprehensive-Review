@@ -9,7 +9,7 @@
 [CDC, USA](https://www.cdc.gov/library/researchguides/2019novelcoronavirus/researcharticles.html)|Centers for Disease Control and Prevention (CDC) \\COVID-19 research articles downloadable database.|
 [COVID-19 Graphs](https://github.com/mhandley/COVID19/blob/master/graphs/covid-eu-linear-lp.png)|This repository provides the tools to visualise the different statistics of COVID-19 using case data. |
 [MATLAB resource](https://blogs.mathworks.com/deep-learning/2020/03/18/deep-learning-for-medical-imaging-covid-19-detection/)|MATLAB based tutorial on deep learning based\\ techniques for detecting COVID-19 using chest radiographs (in MATLAB).|
-[ChemML](https://hachmannlab.github.io/chemml/)ChemML is a machine learning and informatics program that support and advance the data-driven research in the domain of chemical and materials.|
+[ChemML](https://hachmannlab.github.io/chemml/)|ChemML is a machine learning and informatics program that support and advance the data-driven research in the domain of chemical and materials.|
 [JHU's CSSE](https://coronavirus.jhu.edu/)|Coronavirus COVID-19 Resource Page by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU)|
 [MONTREAL.AI](https://montrealartificialintelligence.com/covid19/?fbclid=IwAR3At2VifUPKYqFN29yWctHT-SzqDUf_XzNjvv00rUVBn_VeRSIDcKNGtsA)|This contains the details of multiple open source codes and tools to model different aspects of COVID-19. 
 [NIH NLM LitCovid](https://www.ncbi.nlm.nih.gov/research/coronavirus/)|LitCovid is a curated literature hub for tracking up-to-date scientific information about COVID-19. It  provides central access to more than 3558 relevant articles in PubMed.|
