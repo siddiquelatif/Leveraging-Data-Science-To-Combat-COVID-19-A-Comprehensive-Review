@@ -4,7 +4,7 @@ COVID-19, an infectious disease caused by the SARS-CoV-2 virus, was declared a p
 
 
 
-Table 1: A List of Prominent COVID-19 Datasets
+#Table 1: A List of Prominent COVID-19 Datasets
 
 Dataset Name | Country/Region | Modality | Attributes
 :------ | :------ | :------ | :------
