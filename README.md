@@ -7,7 +7,10 @@ COVID-19, an infectious disease caused by the SARS-CoV-2 virus, was declared a p
 Table 1: A List of Prominent COVID-19 Datasets
 
 Dataset Name | Country/Region | Modality | Attributes
-:--- | :--- | :--- | :---
+:------ | :------ | :------ | :------
 [JHU CSSE COVID-19 Data](https://github.com/CSSEGISandData/COVID-19) | All Countries | Case statistics | Number  of  infections,  number of  cured  patients,  total mortality count, and location.
 [Novel Corona-virus 2019 dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset) | All Countries | Case statistics | Patient  demographics,  case  reporting  date,  location, and  brief history
 [Coronavirus Source Data](https://ourworldindata.org/coronavirus-source-data)|All Countries|	Case statistics|Time series of confirmed daily COVID-19 cases for countries around the world|
+[CHIME](https://github.com/CodeForPhilly/chime)|	All Countries|	Case statistics|Daily number of susceptible, infected and recovered patient|
+[COVID-19 Korea Dataset](https://github.com/ThisIsIsaac/Data-Science-for-COVID-19)|Korea|	Case statistics|	Patient routes, age, gender, diagnosed date|
+[hCOV-19](https://www.gisaid.org/epiflu-applications/next-hcov-19-app/)|	All Countries|Genomic epidemiology|	Genetic sequence and metadata|
