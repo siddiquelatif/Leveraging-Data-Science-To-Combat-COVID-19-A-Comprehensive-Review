@@ -8,6 +8,6 @@ Table 1: A List of Prominent COVID-19 Datasets
 
 Dataset Name | Country/Region | Modality | Attributes
 :--- | :---: | ---: | ---:
-[JHU CSSE COVID-19 Data](https://github.com/CSSEGISandData/COVID-19) | Table Data-2 | Table Data-3 | Table Data-3
+[JHU CSSE COVID-19 Data](https://github.com/CSSEGISandData/COVID-19) | All Countries | Case statistics | Number  of  infections,  number  of  cured  patients,  totalmortality count, location
 TD-4 | Td-5 | TD-6 | Table Data-3
 Table Data-7 | Table Data-8 | Table Data-9| Table Data-3
