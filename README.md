@@ -10,4 +10,4 @@ Dataset Name | Country/Region | Modality | Attributes
 :--- | :--- | :--- | :---
 [JHU CSSE COVID-19 Data](https://github.com/CSSEGISandData/COVID-19) | All Countries | Case statistics | Number  of  infections,  number of  cured  patients,  total mortality count, and location.
 [Novel Corona-virus 2019 dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset) | All Countries | Case statistics | Patient  demographics,  case  reporting  date,  location, and  brief history
-[Coronavirus Source Data](https://ourworldindata.org/coronavirus-source-data)|All Countries|	Case statistics|
+[Coronavirus Source Data](https://ourworldindata.org/coronavirus-source-data)|All Countries|	Case statistics|Time series of confirmed daily COVID-19 cases for countries around the world|
